@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Dimizen family album"
+subtitle: A family history
 image: /img/home-jumbotron.jpg
 blurb:
     heading: this is a test
